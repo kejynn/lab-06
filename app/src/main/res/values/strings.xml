@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab06</string>
+    <string name="NewButton">New</string>
+    <string name="EditButton">Edit</string>
+    <string name="DelButton">Delete</string>
+    <string name="TitleTextView">Title</string>
+    <string name="ContentTextView">Content</string>
+    <string name="TitleEditText" />
+    <string name="ContentEditText" />
+    <string name="SaveButton">Save</string>
+    <string name="CancelButton">Cancel</string>
+</resources>
