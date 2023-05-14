@@ -86,8 +86,6 @@ public class MainActivity extends AppCompatActivity {
 
     public void on_click_delete (View v)
     {
-        int pos = sel;
-        Note n = new Note();
-        adp.remove(n);
+
     }
 }
