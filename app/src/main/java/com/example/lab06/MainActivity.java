@@ -74,7 +74,7 @@ public class MainActivity extends AppCompatActivity {
     public void on_click_edit (View v)
     {
         int pos = sel;
-        Note n = new Note();
+        Note n = adp.getItem(sel);
 
         Intent i = new Intent(this, MainActivity2.class);
         i.putExtra("my-note-index", pos);
